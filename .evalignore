@@ -1,0 +1,4 @@
+*.pdf
+chroma_langchain_db/
+requirements.txt
+
